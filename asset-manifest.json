@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WebArmagedon2/static/css/main.d3ab3d33.css",
-    "main.js": "/WebArmagedon2/static/js/main.9a520c36.js",
-    "index.html": "/WebArmagedon2/index.html",
-    "main.d3ab3d33.css.map": "/WebArmagedon2/static/css/main.d3ab3d33.css.map",
-    "main.9a520c36.js.map": "/WebArmagedon2/static/js/main.9a520c36.js.map"
+    "main.css": "/WebArmagedon/static/css/main.d3ab3d33.css",
+    "main.js": "/WebArmagedon/static/js/main.e672405d.js",
+    "index.html": "/WebArmagedon/index.html",
+    "main.d3ab3d33.css.map": "/WebArmagedon/static/css/main.d3ab3d33.css.map",
+    "main.e672405d.js.map": "/WebArmagedon/static/js/main.e672405d.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ab3d33.css",
-    "static/js/main.9a520c36.js"
+    "static/js/main.e672405d.js"
   ]
 }
